@@ -1,0 +1,6 @@
+# never commit secrets or state
+.env
+terraform/terraform.tfvars
+terraform/.terraform/
+terraform/*.tfstate*
+__pycache__/

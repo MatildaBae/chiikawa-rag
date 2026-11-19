@@ -1,0 +1,11 @@
+fastembed>=0.4
+faiss-cpu>=1.8
+numpy
+openai>=1.40
+gradio>=5.0
+fastapi
+uvicorn
+pydantic
+requests
+beautifulsoup4
+pypdf
